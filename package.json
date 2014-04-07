@@ -10,5 +10,21 @@
   "license": "MIT",
   "dependencies": {
     "grunt": "~0.4"
+  },
+  "readmeFilename": "README.md",
+  "gitHead": "2443b6301c97280d0e916388c40009d7ca8c10cf",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mach3/grunt-pngquant-preserve.git"
+  },
+  "keywords": [
+    "grunt",
+    "task",
+    "png",
+    "pngquant"
+  ],
+  "bugs": {
+    "url": "https://github.com/mach3/grunt-pngquant-preserve/issues"
   }
 }

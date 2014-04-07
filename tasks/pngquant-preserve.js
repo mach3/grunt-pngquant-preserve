@@ -139,7 +139,7 @@ module.exports = function(grunt){
 		this.files.forEach(function(o){
 			var dest = o.dest;
 
-			if(! _.isString(dest)){
+			if(! _.isString(dest) && dest !== undefined){
 				throw Error("Specify 'dest' with string.");
 			}
 
