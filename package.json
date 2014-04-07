@@ -1,6 +1,6 @@
 {
   "name": "grunt-pngquant-preserve",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Run pngquant process without updating atime/mtime of output file.",
   "main": "tasks/pngquant-preserve.js",
   "scripts": {
