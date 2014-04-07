@@ -1,0 +1,14 @@
+{
+  "name": "grunt-pngquant-preserve",
+  "version": "0.1.0",
+  "description": "Run pngquant process without updating atime/mtime of output file.",
+  "main": "tasks/pngquant-preserve.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mach3 <http://github.com/mach3>",
+  "license": "MIT",
+  "dependencies": {
+    "grunt": "~0.4"
+  }
+}
